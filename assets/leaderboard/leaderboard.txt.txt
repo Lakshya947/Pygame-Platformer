@@ -1,0 +1,1 @@
+A distribution to show the number of gas molecules at each speed; shifts right and flattens with temperature

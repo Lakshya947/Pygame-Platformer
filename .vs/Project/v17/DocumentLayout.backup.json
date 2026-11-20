@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\functions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:functions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\levels\\level_0.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levels\\level_0.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\World.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:World.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\player.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:player.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\bullet.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bullet.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\screenTrans.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:screenTrans.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\flagclass.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:flagclass.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\spikeball.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:spikeball.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\floatingplatform.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:floatingplatform.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\Decor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Decor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\button.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:button.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\blobclass.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blobclass.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\bars.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bars.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\levels\\level_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:levels\\level_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\shellenemyclass.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shellenemyclass.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bars.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\bars.py",
+              "RelativeDocumentMoniker": "bars.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\bars.py",
+              "RelativeToolTip": "bars.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-10T12:07:30.714Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "screenTrans.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\screenTrans.py",
+              "RelativeDocumentMoniker": "screenTrans.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\screenTrans.py",
+              "RelativeToolTip": "screenTrans.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-26T14:26:49.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bullet.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\bullet.py",
+              "RelativeDocumentMoniker": "bullet.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\bullet.py",
+              "RelativeToolTip": "bullet.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T12:07:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAACkAAAAAAAAAAAAvwEcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-16T10:54:10.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "flagclass.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\flagclass.py",
+              "RelativeDocumentMoniker": "flagclass.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\flagclass.py",
+              "RelativeToolTip": "flagclass.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-15T10:36:40.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "World.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\World.py",
+              "RelativeDocumentMoniker": "World.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\World.py",
+              "RelativeToolTip": "World.py",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-11T15:16:03.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "player.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\player.py",
+              "RelativeDocumentMoniker": "player.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\player.py",
+              "RelativeToolTip": "player.py",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-08T11:14:00.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "floatingplatform.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\floatingplatform.py",
+              "RelativeDocumentMoniker": "floatingplatform.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\floatingplatform.py",
+              "RelativeToolTip": "floatingplatform.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-02T10:42:00.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "functions.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\functions.py",
+              "RelativeDocumentMoniker": "functions.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\functions.py",
+              "RelativeToolTip": "functions.py",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-08T10:52:50.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "shellenemyclass.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\shellenemyclass.py",
+              "RelativeDocumentMoniker": "shellenemyclass.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\shellenemyclass.py",
+              "RelativeToolTip": "shellenemyclass.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-12T10:48:57.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\settings.py",
+              "RelativeDocumentMoniker": "settings.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\settings.py",
+              "RelativeToolTip": "settings.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-08T10:51:33.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Decor.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\Decor.py",
+              "RelativeDocumentMoniker": "Decor.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\Decor.py",
+              "RelativeToolTip": "Decor.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-11T14:20:38.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "level_3.txt",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\levels\\level_3.txt",
+              "RelativeDocumentMoniker": "levels\\level_3.txt",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\levels\\level_3.txt",
+              "RelativeToolTip": "levels\\level_3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-12T10:54:24.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "blobclass.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\blobclass.py",
+              "RelativeDocumentMoniker": "blobclass.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\blobclass.py",
+              "RelativeToolTip": "blobclass.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-10T12:13:14.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "button.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\button.py",
+              "RelativeDocumentMoniker": "button.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\button.py",
+              "RelativeToolTip": "button.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-10T12:24:50.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "spikeball.py",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\spikeball.py",
+              "RelativeDocumentMoniker": "spikeball.py",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\spikeball.py",
+              "RelativeToolTip": "spikeball.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-12T14:30:37.044Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "cf0081bf-2aa5-42b1-82c5-0a7e36e4d34e",
+        "Display": 0,
+        "X": 1859,
+        "Y": 496,
+        "Width": 1703,
+        "Height": 598,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "level_0.txt",
+              "DocumentMoniker": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\levels\\level_0.txt",
+              "RelativeDocumentMoniker": "levels\\level_0.txt",
+              "ToolTip": "C:\\Users\\19.l.rathore\\OneDrive - The King\u0027s School Grantham\\Documents\\Project\\levels\\level_0.txt",
+              "RelativeToolTip": "levels\\level_0.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-18T14:15:30.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
